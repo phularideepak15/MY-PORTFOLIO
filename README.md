@@ -137,7 +137,7 @@ THIRANEX_WD_01
 │   │   └─ main.js
 │   │
 │   ├─ images
-│   │   └─ siddesh-mange-headshot.webp
+│   │   └─ deepak-phulari-headshot.webp
 │   │
 │   └─ README.md
 ```
