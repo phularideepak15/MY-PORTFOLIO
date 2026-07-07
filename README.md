@@ -1,6 +1,6 @@
 # 📦 **HTML5 Semantic Structure & Accessibility Portfolio Website**  
 **Organization:** *Thiranex – Skill Development & Future Tech*  
-**Internship:** *Web Development Internship – Task 1*  
+**Internship:** *Full Stack Development Internship – Task 1*  
 
 ---  
 
@@ -53,7 +53,7 @@
 
 ## 📖 Project Overview  
 
-This project was developed as **Task 1 of the Thiranex Web Development Internship**. Its primary goal was to create a multi‑page portfolio that demonstrates:
+This project was developed as **Task 1 of the Thiranex Full Stack Development Internship**. Its primary goal was to create a multi‑page portfolio that demonstrates:
 
 * Proper **semantic HTML5** structure.  
 * **Accessibility‑first** development (WCAG 2.1 AA compliance).  
@@ -140,9 +140,6 @@ THIRANEX_WD_01
 │   │   └─ siddesh-mange-headshot.webp
 │   │
 │   └─ README.md
-├─ TASK-3-TODO-APP
-├─ TASK-4-WEATHER-APP
-└─ TASK-5-CAPSTONE
 ```
 
 ---  
@@ -205,7 +202,7 @@ start index.html
 
 ## 🙋‍♂️ Author Information  
 
-**Siddesh Mange** – Web Development Intern / Aspiring Full Stack Developer  
+**Siddesh Mange** – Full stack Development Intern / Aspiring Full Stack Developer  
 
 - GitHub: [siddesh3448](https://github.com/siddesh3448)  
 - LinkedIn: [Siddesh Mange](https://www.linkedin.com/in/siddesh-mallinath-mange-a44689351/)  
