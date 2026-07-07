@@ -2,21 +2,7 @@
 **Organization:** *Thiranex – Skill Development & Future Tech*  
 **Internship:** *Full Stack Development Internship – Task 1*  
 
----  
 
-## 🚀 Hero  
-
-<div align="center">
-
-**A responsive, SEO‑friendly portfolio built with pure HTML5, CSS3, and vanilla JavaScript.**  
-
-[![GitHub stars](https://img.shields.io/github/stars/siddesh3448/THIRANEX_WD_01?style=flat&logo=github)](https://github.com/siddesh3448/THIRANEX_WD_01)   
-[![GitHub forks](https://img.shields.io/github/forks/siddesh3448/THIRANEX_WD_01?style=flat&logo=github)](https://github.com/siddesh3448/THIRANEX_WD_01)   
-[![License](https://img.shields.io/badge/License-None-lightgrey?style=flat)](https://github.com/siddesh3448/THIRANEX_WD_01)  
-
-</div>
-
----  
 
 ## 📑 Table of Contents  
 
@@ -144,16 +130,7 @@ THIRANEX_WD_01
 
 ---  
 
-## 📦 Installation Instructions  
 
-```bash
-# Clone the repository that contains all tasks
-git clone https://github.com/siddesh3448/THIRANEX_WD_01.git
-cd THIRANEX_WD_01/TASK-1-2-PORTFOLIO
-
-# Open the homepage in your default browser (Windows)
-start index.html
-```
 
 > The site is static; no additional dependencies are required.
 
@@ -202,10 +179,10 @@ start index.html
 
 ## 🙋‍♂️ Author Information  
 
-**Siddesh Mange** – Full stack Development Intern / Aspiring Full Stack Developer  
+**Deepak Phulari** – Full stack Development Intern / Aspiring Full Stack Developer  
 
-- GitHub: [siddesh3448](https://github.com/siddesh3448)  
-- LinkedIn: [Siddesh Mange](https://www.linkedin.com/in/siddesh-mallinath-mange-a44689351/)  
+- GitHub: [phularideepak15](https://github.com/phularideepak15)  
+- LinkedIn: [Deepak Phulari](https://www.linkedin.com/in/deepak-phulari-0846543b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 
 ---  
 
